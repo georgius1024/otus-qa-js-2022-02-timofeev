@@ -1,6 +1,8 @@
-# Super project
+# Super project by Tommy&Fred
 
 ### Feature list
 * Feature 1
 * Feature 2
 * Feature 3
+
+## Options
